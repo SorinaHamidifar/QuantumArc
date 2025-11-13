@@ -31,7 +31,7 @@ if __name__ == "__main__":
 # ---------- core/patterns.py ----------
 """
 Module demonstrating clean and modern coding patterns.
-Includes functional, modular, and object-oriente examples.
+Includes functional, modular, and object-oriented examples.
 """
 
 from typing import Callable, List, Any

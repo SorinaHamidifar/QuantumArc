@@ -15,7 +15,7 @@ from core import performance, patterns
 
 def run():
     print("⚙️  Welcome to EdgeLab")
-    print("🧠 Exploring  Patterns | 🚀 Performance | ♾️ Scalability\n")
+    print("🧠 Exploring  | 🚀 Performance | ♾️ Scalability\n")
 
     # Demo functionality
     data = [10, 20, 30, 40, 50]

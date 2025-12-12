@@ -10,7 +10,7 @@
 Main entry point for EdgeLab.
 """
 
-from core import performan, patterns
+from core import performanse, patterns
 
 
 def run():

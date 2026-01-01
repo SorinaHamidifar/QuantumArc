@@ -86,7 +86,7 @@ Run with: pytest
 from core import patterns
 
 def test_apply_pattern():
-    result = patterns.apply_pattern(lambda x: x + 1, [1, 2, 3])
+    result = .apply_pattern(lambda x: x + 1, [1, 2, 3])
     assert result == [2, 3, 4]
 
 def test_singleton():

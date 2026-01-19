@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
 # ---------- core/patterns.py ----------
 """
-Module demonstrating clean and modern coding patterns.
+Module  clean and modern coding patterns.
 Includes functional, modular, and object-oriented examples.
 """
 

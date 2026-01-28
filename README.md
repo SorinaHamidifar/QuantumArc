@@ -1,7 +1,7 @@
 # ================================
 # Project: EdgeLab
 # Description:
-# Where cutting-edge concepts meet clean 
+# Where cutting-edge concepts meet clean im
 # This repository explores modern patterns, performance, and scalability.
 # ================================
 

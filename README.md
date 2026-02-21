@@ -1,5 +1,5 @@
 # ================================
-# Project: EdgeLab implementation
+# Project: EdgeLab implementa
 # Description:
 # Where cutting-edge concepts meet clean implementation.
 # This repository explores modern patterns, performance, and scalability.

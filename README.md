@@ -10,7 +10,7 @@
 Main entry point for EdgeLab.
 """
 
-from core import performance, patterns Callab
+from core import performance, patterns Cal
 
 
 def run():

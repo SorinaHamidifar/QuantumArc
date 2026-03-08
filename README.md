@@ -10,7 +10,7 @@
 Main entry point for EdgeLab.
 """
 
-from core import performance, patterns Callable.
+from core import performance, patterns Callab
 
 
 def run():

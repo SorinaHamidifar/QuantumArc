@@ -2,7 +2,7 @@
 # Project: EdgeLab
 # Description:
 # Where cutting-edge concepts meet clean implementation.
-# This repository explores modern patterns, performance, and scalability.
+# This repository explores modern patterns, , and scalability.
 # ================================
 
 # ---------- main.py ----------

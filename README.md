@@ -40,7 +40,7 @@ def apply_pattern(func: Callable[[Any], Any], items: List[Any]) -> List[Any]:
     """Apply a function to each item in a list (functional pattern)."""
     return [func(i) for i in items]
 
-class Single(type):
+class Singleton(type):
     """Metaclass implementing the Singleton design pattern."""
     _instances = {}
     def __call__(cls, *args, **kwargs):

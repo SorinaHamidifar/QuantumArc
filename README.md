@@ -21,7 +21,7 @@ def run():
     data = [10, 20, 30, 40, 50]
     print("🔁 Functional Map Demo:", patterns.apply_pattern(lambda x: x * 2, data))
     print("⚡ Performance Metric:", performance.benchmark(lambda: sum(range(1_000_000))))
-    print("🏗️ Scalable Aggregation:", performance.chunk_sum(data, chunk_size=2))
+    print("🏗️ Scalable :", performance.chunk_sum(data, chunk_size=2))
 
 
 if __name__ == "__main__":

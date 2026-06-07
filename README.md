@@ -10,7 +10,7 @@
 Main entry point for EdgeLab.
 """
 
-from core import performance, patterns implementation.
+from core import performance, patterns implementati
 
 
 def run():

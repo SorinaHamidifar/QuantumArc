@@ -1,5 +1,5 @@
 # ================================
-# Project: EdgeLab imple
+# Project: EdgeLab imp
 # Description:
 # Where cutting-edge concepts meet clean implementation.
 # This repository explores modern patterns, performance, and scalability.
